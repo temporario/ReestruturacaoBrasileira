@@ -1,10 +1,10 @@
 *Only in portuguese language. Somente em língua portuguesa.*
 
 # Reestruturação Brasileira
-
+***Em construção ainda. Aguarde.***
 ## O que é o "Reestruturação Brasileira" ?
 
-O Reestruturação Brasileira é um projeto criado por mim, João Pedro, para permitir brasileiros (porém não excluindo não-brasileiros) pensarem e projetarem uma nova estrutura para o país, sendo que em estrutura refiro-me a todos os setores (econômico, político, et cetera) do país. <br/>
+O Reestruturação Brasileira é um projeto criado por mim, João Pedro, para permitir brasileiros (porém não excluindo não-brasileiros) pensarem e projetarem uma nova estrutura para o país, sendo que em estrutura refiro-me a todos os setores (econômico, político, et cetera) do país. Permite também novas ideias para resolução de assuntos específicos e um debate saudável entre suas partes. <br/>
 Como dito anteriormente, qualquer um pode participar deste projeto, desde que passem pelo processo de admissão e cumprindo as regras, estas localizadas no arquivo "regras.md".<br/>
 
 ## Processo de admissão
